@@ -1,1 +1,1 @@
-## Manuel Stefan Christopher <br/> Math Student at the University of Waterloo
+## Manuel Stefan Christopher <br/><br/> Math Student at the University of Waterloo
