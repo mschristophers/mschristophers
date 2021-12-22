@@ -1,4 +1,4 @@
-### Manuel Stefan Christopher
+<h1>Manuel Stefan Christopher</h1>
 
 ## About Me
 - &nbsp; Honours Mathematics Student at the University of Waterloo
