@@ -1,4 +1,4 @@
-<h1>Manuel Stefan Christopher</h1>
+<h1>M. S. Christopher S.</h1>
 
 ## About Me
 - &nbsp; Honours Mathematics Student at the University of Waterloo
