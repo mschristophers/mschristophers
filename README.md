@@ -2,7 +2,7 @@
 
 ## About Me
 - &nbsp; Honours Mathematics Student at the University of Waterloo
-- &nbsp; Learning more about web/mobile development, blockchain/smart contracts, embedded systems, and artificial intelligence
+- &nbsp; Learning more about blockchain, data science, low-level/embedded systems, and full-stack development.
 
 ## GitHub Stats
 ![Manuel Stefan Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mschristophers&show_icons=true&theme=radical)
